@@ -1,0 +1,12 @@
+[
+  { "accessorKey": "name", "header": "Name", "size": 150 },
+  { "accessorKey": "status", "header": "Status", "size": 120 },
+  { "accessorKey": "role", "header": "Role", "size": 180 },
+  { "accessorKey": "email", "header": "Email", "size": 200 },
+  { "accessorKey": "teams", "header": "Teams", "size": 180 },
+  {
+    "header": "Actions",
+    "accessorKey": "actions"
+  }
+  
+]

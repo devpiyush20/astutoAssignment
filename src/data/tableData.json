@@ -1,0 +1,235 @@
+[
+    {
+      "profile": "https://randomuser.me/api/portraits/men/1.jpg",
+      "name": "John Doe",
+      "status": "Working",
+      "role": "Product Manager",
+      "email": "johndoe@company.com",
+      "teams": ["Design", "Development", "Marketing", "Sales"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/2.jpg",
+      "name": "Jane Smith",
+      "status": "Not Working",
+      "role": "Software Engineer",
+      "email": "janesmith@company.com",
+      "teams": ["Development", "QA", "Operations", "Security", "Analytics"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/3.jpg",
+      "name": "Robert Brown",
+      "status": "Working",
+      "role": "UI/UX Designer",
+      "email": "robertbrown@company.com",
+      "teams": ["Design"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/4.jpg",
+      "name": "Michael Johnson",
+      "status": "Working",
+      "role": "Marketing Specialist",
+      "email": "michaeljohnson@company.com",
+      "teams": ["Marketing", "Sales"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/5.jpg",
+      "name": "Emily Davis",
+      "status": "Not Working",
+      "role": "Business Analyst",
+      "email": "emilydavis@company.com",
+      "teams": ["Operations", "Marketing"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/6.jpg",
+      "name": "William Wilson",
+      "status": "Working",
+      "role": "Project Manager",
+      "email": "williamwilson@company.com",
+      "teams": ["Development", "QA"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/7.jpg",
+      "name": "Olivia Taylor",
+      "status": "Working",
+      "role": "Graphic Designer",
+      "email": "oliviataylor@company.com",
+      "teams": ["Design"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/8.jpg",
+      "name": "James Anderson",
+      "status": "Not Working",
+      "role": "Software Engineer",
+      "email": "jamesanderson@company.com",
+      "teams": ["Development"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/9.jpg",
+      "name": "Isabella Thomas",
+      "status": "Working",
+      "role": "Data Scientist",
+      "email": "isabellathomas@company.com",
+      "teams": ["Analytics", "Development"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/10.jpg",
+      "name": "Ethan Martinez",
+      "status": "Not Working",
+      "role": "Product Designer",
+      "email": "ethanmartinez@company.com",
+      "teams": ["Design"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/11.jpg",
+      "name": "Sophia Garcia",
+      "status": "Working",
+      "role": "HR Manager",
+      "email": "sophiagarcia@company.com",
+      "teams": ["Operations"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/12.jpg",
+      "name": "Daniel Lee",
+      "status": "Working",
+      "role": "UI Developer",
+      "email": "daniellee@company.com",
+      "teams": ["Development", "Design"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/13.jpg",
+      "name": "Mia Harris",
+      "status": "Not Working",
+      "role": "QA Specialist",
+      "email": "miaharris@company.com",
+      "teams": ["QA", "Development"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/14.jpg",
+      "name": "Alexander Clark",
+      "status": "Working",
+      "role": "Backend Developer",
+      "email": "alexanderclark@company.com",
+      "teams": ["Development"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/15.jpg",
+      "name": "Charlotte Allen",
+      "status": "Not Working",
+      "role": "Operations Manager",
+      "email": "charlotteallen@company.com",
+      "teams": ["Operations"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/16.jpg",
+      "name": "David Harris",
+      "status": "Working",
+      "role": "Frontend Developer",
+      "email": "davidharris@company.com",
+      "teams": ["Development"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/17.jpg",
+      "name": "Amelia King",
+      "status": "Not Working",
+      "role": "Sales Executive",
+      "email": "ameliaking@company.com",
+      "teams": ["Sales"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/18.jpg",
+      "name": "Benjamin Wright",
+      "status": "Working",
+      "role": "DevOps Engineer",
+      "email": "benjaminwright@company.com",
+      "teams": ["Development", "Operations"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/19.jpg",
+      "name": "Grace Young",
+      "status": "Not Working",
+      "role": "Marketing Manager",
+      "email": "graceyoung@company.com",
+      "teams": ["Marketing"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/20.jpg",
+      "name": "Lucas Scott",
+      "status": "Working",
+      "role": "Data Analyst",
+      "email": "lucasscott@company.com",
+      "teams": ["Analytics"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/21.jpg",
+      "name": "Harper Robinson",
+      "status": "Not Working",
+      "role": "Product Designer",
+      "email": "harperrobinson@company.com",
+      "teams": ["Design"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/22.jpg",
+      "name": "Jack Perez",
+      "status": "Working",
+      "role": "Project Coordinator",
+      "email": "jackperez@company.com",
+      "teams": ["Operations"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/23.jpg",
+      "name": "Avery Carter",
+      "status": "Not Working",
+      "role": "Frontend Developer",
+      "email": "averycarter@company.com",
+      "teams": ["Development"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/24.jpg",
+      "name": "Sebastian Mitchell",
+      "status": "Working",
+      "role": "QA Engineer",
+      "email": "sebastianmitchell@company.com",
+      "teams": ["QA", "Development"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/25.jpg",
+      "name": "Evelyn Roberts",
+      "status": "Not Working",
+      "role": "Backend Developer",
+      "email": "evelynroberts@company.com",
+      "teams": ["Development"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/26.jpg",
+      "name": "Matthew Evans",
+      "status": "Working",
+      "role": "UI/UX Designer",
+      "email": "matthewevans@company.com",
+      "teams": ["Design"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/27.jpg",
+      "name": "Scarlett Collins",
+      "status": "Not Working",
+      "role": "Software Engineer",
+      "email": "scarlettcollins@company.com",
+      "teams": ["Development"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/men/28.jpg",
+      "name": "Henry Gray",
+      "status": "Working",
+      "role": "Business Analyst",
+      "email": "henrygray@company.com",
+      "teams": ["Operations", "Analytics"]
+    },
+    {
+      "profile": "https://randomuser.me/api/portraits/women/29.jpg",
+      "name": "Lily Green",
+      "status": "Not Working",
+      "role": "Marketing Specialist",
+      "email": "lilygreen@company.com",
+      "teams": ["Marketing"]
+    }
+]
+  
